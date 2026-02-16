@@ -22,7 +22,7 @@
 
 ## Test case for multiply function (failed)
 
-![multiply-test-failed](./screenshots/muliply-test-failed.PNG)
+![multiply-test-failed](./screenshots/multiply-test-failed.PNG)
 
 ## Test case for divide function (pass)
 
